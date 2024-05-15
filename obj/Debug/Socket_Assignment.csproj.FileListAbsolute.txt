@@ -1,0 +1,10 @@
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\bin\Debug\Socket_Assignment.exe.config
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\bin\Debug\Socket_Assignment.exe
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\bin\Debug\Socket_Assignment.pdb
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.csproj.AssemblyReference.cache
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.Form1.resources
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.Properties.Resources.resources
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.csproj.GenerateResource.cache
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.exe
+C:\Users\k-kobayashi\shiba\2024\kaihatu1\Socket_Assignment\obj\Debug\Socket_Assignment.pdb
